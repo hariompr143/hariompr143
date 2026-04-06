@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariom Prasad</h1>
 <h3 align="center">I am a Research Scholar specializing in Pharmacoinformatics at NIPER Mohali, where I bridge the gap between pharmaceutical sciences and computational intelligence. My work focuses on leveraging Machine Learning (ML), Deep Learning, and Natural Language Processing (NLP) to decode complex biological systems and accelerate the discovery of novel therapeutics.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariompr143&label=Profile%20views&color=0e75b6&style=flat" alt="hariompr143" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariompr143" alt="hariompr143" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hariompr143&label=Profile%20views&color=0e75b6&style=flat" alt="hariompr143" /> </p>
 
 - 🔭 I’m currently working on [NLP based Analysis of Patient drug review Adverse effect identification](https://hariomprasad.in/)
 
