@@ -111,18 +111,18 @@ I regularly publish articles on **[hariomprasad.in](https://hariomprasad.in/)**
 
 <div align="center">
 
-<a href="https://github.com/hariom-prasad">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hariom-prasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom-prasad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=8" />
+<a href="https://github.com/hariompr143">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hariompr143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompr143&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=8" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hariom-prasad&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hariompr143&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariom-prasad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=ffffff&area=true" alt="activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariompr143&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=ffffff&area=true" alt="activity" />
 
 <br/>
 
@@ -141,7 +141,7 @@ I regularly publish articles on **[hariomprasad.in](https://hariomprasad.in/)**
 
 If my research or open-source work has helped you, consider supporting me:
 
-<a href="https://www.buymeacoffee.com/hariomprasad">
+<a href="https://www.buymeacoffee.com/hariompr143">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 <a href="https://hariomprasad.in/">
