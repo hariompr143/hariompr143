@@ -126,8 +126,8 @@ I regularly publish articles on **[hariomprasad.in](https://hariomprasad.in/)**
 
 <br/>
 
-<a href="https://github.com/hariom-prasad">
-  <img src="https://github-profile-trophy.vercel.app/?username=hariom-prasad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<a href="https://github.com/hariompr143">
+  <img src="https://github-profile-trophy.vercel.app/?username=hariompr143&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </a>
 
 </div>
